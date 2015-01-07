@@ -401,3 +401,7 @@ Read values of items every 60 seconds, continually logging the results to a file
       -R,      --recursive       List items recursively when browsing tree
       -,       --pipe            Pipe item/value list from standard input
     
+
+This fork of OpenOPC
+-----------------------------------------------------
+This fork was created because of potential involvement with the open-source [PLC 2 SQL software](http://plc2sql.com), specifically to create an open-source version of its [OPC to SQL communication driver](http://plc2sql.com/about).
